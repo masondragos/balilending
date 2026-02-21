@@ -68,6 +68,7 @@ if (loanInquiryForm) {
             name: document.getElementById('name').value,
             email: document.getElementById('email').value,
             phone: document.getElementById('phone').value,
+            loan_purpose: document.getElementById('loan-purpose').value,
             loan_amount: document.getElementById('loan-amount').value,
             message: document.getElementById('message').value
         };
