@@ -4,7 +4,7 @@ A professional, institutional-grade marketing website for Bali Lending — priva
 
 ## Overview
 
-Bali Lending offers long-term mortgage-style loans and construction debt to owners of HGB-titled Bali properties held by foreign entities (Dubai, USA, Singapore, EU). Loans are secured by a triple-layer structure: Hak Tanggungan, PT PMA share pledge, and personal guarantee.
+Bali Lending offers long-term mortgage-style loans and construction debt to owners of freehold Bali properties held by foreign entities (Dubai, USA, Singapore, EU). Loans are secured by a triple-layer structure: Hak Tanggungan, PT PMA share pledge, and personal guarantee.
 
 ## Features
 
@@ -12,7 +12,7 @@ Bali Lending offers long-term mortgage-style loans and construction debt to owne
 - **Responsive Layout**: Works on desktop, tablet, and mobile
 - **Sections**: Hero, How It Works, Why Foreign-Entity, Security Architecture, Loan Parameters, Who We Work With, Process, Loan Inquiry
 - **Loan Inquiry Form**: Ready for Formspree, Netlify Forms, or custom API
-- **SEO**: Meta tags and keywords for Bali real estate lending, HGB mortgage, foreign entity financing
+- **SEO**: Meta tags and keywords for Bali real estate lending, freehold mortgage, foreign entity financing
 
 ## File Structure
 
